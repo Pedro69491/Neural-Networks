@@ -1,0 +1,10 @@
+#Development of two Neural Networks (LSTM and BILSTM) that are able to classify a series of news headlines from the stock market
+
+Supervised Learning task, with inputs being the headlines and the correponding labels being the output (1 if headline is labeled as positive, 0 otherwise)
+
+RNN
+Accuracy:90%
+
+LSTM
+Accuracy: 95%
+
